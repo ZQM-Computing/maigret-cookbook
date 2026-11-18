@@ -35,6 +35,8 @@ OSINT practitioners who check username presence with richer reporting.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-search` | A first username search and its report formats |
